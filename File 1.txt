@@ -1,5 +1,8 @@
 import pandas as pd
+imprt data
 
 #code ini berasal dari local
 
 code dari Kak Efi
+
+kodingan dari Kak Kurnia dengan full dan lengkap
